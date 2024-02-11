@@ -81,4 +81,9 @@ The training loss consistently decreased, indicating successful learning.
 
 ## FineTune 
 ### How to finetune your model for your custom datasets? 
-[QuestionAnsweringFinetuning](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/blob/master/mt-5-finetuned.ipynb)
+
+[Dataset: NepaliHealthQA-10k](https://huggingface.co/datasets/NepaliAI/Nepali-Health-Fact)
+
+[Dataset: NepaliHealthQA-55k](https://huggingface.co/datasets/NepaliAI/Nepali-HealthChat)
+
+[Code: QuestionAnsweringFinetuning](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/blob/master/mt-5-finetuned.ipynb)
