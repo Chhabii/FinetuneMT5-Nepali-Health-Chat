@@ -19,9 +19,10 @@ MT5-small is finetuned with large corups of Nepali Health Question-Answering Dat
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Training Procedure](#trainingprocedure)
-- [Use Case](#usecase)
+- [Training Procedure](#training-procedure)
+- [Use Case](#use-case)
 - [Evaluation](#evaluation)
+- [FineTune](#finetune)
   
 ## Introduction
 In the ever-evolving landscape of Natural Language Processing (NLP), our project, titled ”OPEN-SOURCE NEPALI HEALTH-QA LANGUAGE MODEL WITH FINE-TUNED TRANSFORMERS AND EXTERNAL KNOWLEDGE BASES,” represents a dedicated effort to address the pressing need for accessible and accurate health-related information in the Nepali language. This project is driven by the recognition of the critical role that natural language understanding plays in fostering meaningful interactions, particularly in the domain of health-related inquiries. Our question-answering model doesn’t just answer queries; it provides a valuable second opinion, offering additional perspectives and comprehensive insights on healthcare matters.
@@ -73,3 +74,6 @@ The training loss consistently decreased, indicating successful learning.
 ### Inference from finetuned model:
 ![image](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/a91d5ace-1f41-4185-a8e0-ab5cf8af6b7c)
 
+## FineTune 
+### How to finetune your model for your custom datasets? 
+[QuestionAnsweringFinetuning](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/blob/master/mt-5-finetuned.ipynb)
