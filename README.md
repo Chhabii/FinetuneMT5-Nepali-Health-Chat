@@ -31,10 +31,15 @@ In the ever-evolving landscape of Natural Language Processing (NLP), our project
 The model was trained for more than 50 epochs with the following training parameters:
 
 Learning Rate: 2e-4
+
 Batch Size: 2
+
 Gradient Accumulation Steps: 8
+
 FP16 (mixed-precision training): Disabled
+
 Optimizer: Adafactor
+
 The training loss consistently decreased, indicating successful learning.
 
 ## Use Case
