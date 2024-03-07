@@ -72,18 +72,19 @@ The training loss consistently decreased, indicating successful learning.
 ```
 ## Evaluation
 ### BLEU score:
+![Screenshot from 2024-03-04 22-47-37](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/56f97b14-77ad-45d0-a016-e6ad08be5a32)
 
-
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/64a9a2e403835e13f9786936/X9NK63aj1EKeBH-d_NUG6.png)
 
 ### Inference from finetuned model:
-![image](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/a91d5ace-1f41-4185-a8e0-ab5cf8af6b7c)
+ ![Screenshot from 2024-03-05 08-23-24](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/50f1ee5a-8139-4cd2-885a-fa44f3e88388)
+
+```![image](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/a91d5ace-1f41-4185-a8e0-ab5cf8af6b7c)```
 
 ## FineTune 
 ### How to finetune your model for your custom datasets? 
 
-[Dataset: NepaliHealthQA-10k](https://huggingface.co/datasets/NepaliAI/Nepali-Health-Fact)
+[Dataset: NepaliHealthQA-20k-Good-Quality Dataset](https://huggingface.co/datasets/NepaliAI/Nepali-Health-Fact)
 
-[Dataset: NepaliHealthQA-55k](https://huggingface.co/datasets/NepaliAI/Nepali-HealthChat)
+[Dataset: NepaliHealthQA-55k-low Quality Dataset](https://huggingface.co/datasets/NepaliAI/Nepali-HealthChat)
 
 [Code: QuestionAnsweringFinetuning](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/blob/master/mt-5-finetuned.ipynb)
