@@ -76,7 +76,8 @@ The training loss consistently decreased, indicating successful learning.
 
 
 ### Inference from finetuned model:
- ![Screenshot from 2024-03-05 08-23-24](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/50f1ee5a-8139-4cd2-885a-fa44f3e88388)
+
+![Screenshot from 2024-03-05 08-23-24](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/50f1ee5a-8139-4cd2-885a-fa44f3e88388)
 
 ```![image](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/a91d5ace-1f41-4185-a8e0-ab5cf8af6b7c)```
 
