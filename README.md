@@ -28,7 +28,7 @@ MT5-small is finetuned with large corups of Nepali Health Question-Answering Dat
 In the ever-evolving landscape of Natural Language Processing (NLP), our project, titled ”OPEN-SOURCE NEPALI HEALTH-QA LANGUAGE MODEL WITH FINE-TUNED TRANSFORMERS AND EXTERNAL KNOWLEDGE BASES,” represents a dedicated effort to address the pressing need for accessible and accurate health-related information in the Nepali language. This project is driven by the recognition of the critical role that natural language understanding plays in fostering meaningful interactions, particularly in the domain of health-related inquiries. Our question-answering model doesn’t just answer queries; it provides a valuable second opinion, offering additional perspectives and comprehensive insights on healthcare matters.
 
 ## Training Procedure
-The model was trained for more than 50 epochs with the following training parameters:
+The model was trained for more than 125 epochs with the following training parameters:
 
 Learning Rate: 2e-4
 
