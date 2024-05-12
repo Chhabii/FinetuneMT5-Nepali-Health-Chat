@@ -74,12 +74,16 @@ The training loss consistently decreased, indicating successful learning.
 ### BLEU score:
 ![Screenshot from 2024-03-04 22-47-37](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/56f97b14-77ad-45d0-a016-e6ad08be5a32)
 
+![image](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/dfa3f3e2-7297-44c7-80dc-0c28a5816324)
+
 
 ### Inference from finetuned model:
 
 ![Screenshot from 2024-03-05 08-23-24](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/50f1ee5a-8139-4cd2-885a-fa44f3e88388)
 
 ![image](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/a91d5ace-1f41-4185-a8e0-ab5cf8af6b7c)
+
+![image](https://github.com/Chhabii/FinetuneMT5-Nepali-Health-Chat/assets/60286478/88adc0d0-a9cf-43d7-a8af-dd5a5e103461)
 
 ## FineTune 
 ### How to finetune your model for your custom datasets? 
